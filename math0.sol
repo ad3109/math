@@ -2,6 +2,7 @@
 // This is a base file that may not be needed in later CAT interations
 // OpenZeppelin Contracts (last updated v4.8.0-rc.0) (utils/math/Math.sol)
 // source: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.8/contracts/utils/math/Math.sol
+// further references: https://docs.openzeppelin.com/contracts/2.x/api/math ; https://medium.com/coinmonks/math-in-solidity-part-4-compound-interest-512d9e13041b
 
 pragma solidity ^0.8.0;
 
